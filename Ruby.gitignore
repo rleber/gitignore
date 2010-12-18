@@ -1,6 +1,5 @@
 coverage
 rdoc
-pkg
 test/tmp
 test/version_tmp
 tmp
